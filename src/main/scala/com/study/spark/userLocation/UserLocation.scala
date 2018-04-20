@@ -1,7 +1,14 @@
-package com.study.spark.demo
+package com.study.spark.userLocation
 
 import org.apache.spark.{SparkConf, SparkContext}
 
+/**
+  * 根据日志统计出每个用户在站点所呆时间最长的前2个的信息
+  * 1, 先根据"手机号_站点"为唯一标识, 算一次进站出站的时间, 返回(手机号_站点, 时间间隔)
+  * 2, 以"手机号_站点"为key, 统计每个站点的时间总和, ("手机号_站点", 时间总和)
+  * 3, ("手机号_站点", 时间总和) --> (手机号, 站点, 时间总和)
+  * 4, (手机号, 站点, 时间总和) --> groupBy().mapValues(以时间排序,取出前2个) --> (手机->((m,s,t)(m,s,t)))
+  */
 object UserLocation {
 
   def main(args: Array[String]): Unit = {
@@ -28,7 +35,7 @@ object UserLocation {
         val timeLong  = if (eventType == "0") fields(1).toLong else -fields(1).toLong
         (fields(0) + "_" + fields(2), timeLong)
       })
-    println(m_l_t.collect().toBuffer)
+    println("************" +m_l_t.collect().toBuffer)
 
     //分组
     //ArrayBuffer((18611132889_9F36407EAD0629FC166F14DDE7970F68,CompactBuffer((18611132889_9F36407EAD0629FC166F14DDE7970F68,-20160327075000),...)),....)

@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889ab389-44ec-480d-b4d6-449af7d0e33e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/data/url/itcast.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/data/userLocation/lac_info.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/AdvUserLocation.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation2.scala" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation.scala" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$3$$anonfun$apply$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$6$$anonfun$7.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$$anonfun$6.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/spark/demo/UserLocation.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,31 +30,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserLocation.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation.scala">
+      <file leaf-file-name="AdvUserLocation.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/AdvUserLocation.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="421">
+              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForeachDemo.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/demo/ForeachDemo.scala">
+      <file leaf-file-name="itcast.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/url/itcast.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="265">
+              <caret line="7980" column="32" lean-forward="true" selection-start-line="7980" selection-start-column="32" selection-end-line="7980" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dependency-reduced-pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
+      <file leaf-file-name="UserLocation2.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserLocation.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lac_info.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/userLocation/lac_info.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -68,6 +102,9 @@
       <find>ord</find>
       <find>&gt;</find>
       <find>compare</find>
+      <find>87600</find>
+      <find>18611132889_16030401EAFB68F1E3CDF819735E1C66,</find>
+      <find>54000</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,11 +128,16 @@
         <option value="$PROJECT_DIR$/src/test/scala/com/study/bound/view/ViewBound2.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/study/bound/view/Bird.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/study/bound/view/MyPredef.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/ForeachDemo.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/WordCount.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/scriptFile.scala" />
-        <option value="$PROJECT_DIR$/src/data/userLocation/bs_log/scriptFile.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation2.scala" />
+        <option value="$PROJECT_DIR$/src/data/userLocation/bs_log/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/ForeachDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/demo/ForeachDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/AdvUserLocation.scala" />
+        <option value="$PROJECT_DIR$/src/data/url/itcast.log" />
       </list>
     </option>
   </component>
@@ -183,9 +225,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,10 +245,50 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HelloSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="userLocation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UserLocation">
+  <component name="RunManager" selected="Application.AdvUserLocation">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -245,8 +326,8 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ContextBound" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.bound.context.ContextBound" />
+    <configuration name="AdvUserLocation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.userLocation.AdvUserLocation" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -259,7 +340,7 @@
       <envs />
     </configuration>
     <configuration name="ForeachDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.spark.demo.ForeachDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.userLocation.ForeachDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -272,7 +353,7 @@
       <envs />
     </configuration>
     <configuration name="UserLocation" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.spark.demo.UserLocation" />
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.userLocation.UserLocation" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -284,8 +365,8 @@
       <module name="hello-spark" />
       <envs />
     </configuration>
-    <configuration name="ViewBound" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.bound.view.ViewBound" />
+    <configuration name="UserLocation2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.spark.userLocation.UserLocation2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -362,19 +443,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ViewBound" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ContextBound" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ViewBound2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ForeachDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UserLocation" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ViewBound2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ForeachDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UserLocation" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UserLocation2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AdvUserLocation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.UserLocation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ForeachDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ViewBound2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ViewBound" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ContextBound" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AdvUserLocation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UserLocation" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UserLocation2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ForeachDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ViewBound2" />
       </list>
     </recent_temporary>
   </component>
@@ -417,34 +498,38 @@
       <workItem from="1523410101229" duration="595000" />
       <workItem from="1523673442223" duration="4301000" />
       <workItem from="1523792031216" duration="7338000" />
-      <workItem from="1523846608188" duration="4699000" />
+      <workItem from="1523846608188" duration="5635000" />
+      <workItem from="1523883722569" duration="5022000" />
+      <workItem from="1523926638214" duration="3998000" />
+      <workItem from="1524013300610" duration="5893000" />
+      <workItem from="1524099343215" duration="1492000" />
+      <workItem from="1524212579312" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84627000" />
+    <option name="totallyTimeSpent" value="102169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="805" y="36" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32735425" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0622598" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.367713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48281017" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104534976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23289777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33582088" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32735425" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -476,33 +561,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/scopt/scopt_2.11/3.7.0/scopt_2.11-3.7.0-sources.jar!/scopt/options.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7470">
-          <caret line="415" column="37" lean-forward="false" selection-start-line="415" selection-start-column="37" selection-end-line="415" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Option.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2484">
-          <caret line="144" column="20" lean-forward="false" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/study/bound/view/package.scala" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/math/PartialOrdering.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/math/PartiallyOrdered.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -670,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +829,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/demo/scriptFile.scala" />
-    <entry file="file://$PROJECT_DIR$/src/data/userLocation/bs_log/scriptFile.scala" />
     <entry file="file://$PROJECT_DIR$/src/data/userLocation/bs_log/19735E1C66.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -783,26 +844,58 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/demo/UserLocation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/demo/ForeachDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dependency-reduced-pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/userLocation/bs_log/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/demo/ForeachDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/userLocation/lac_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/url/itcast.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="7980" column="32" lean-forward="true" selection-start-line="7980" selection-start-column="32" selection-end-line="7980" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/UserLocation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/study/spark/userLocation/AdvUserLocation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
           <folding />
         </state>
       </provider>
